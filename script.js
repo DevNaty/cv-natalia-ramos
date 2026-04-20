@@ -1,0 +1,1 @@
+console.log("CV Administrativo cargado correctamente");
